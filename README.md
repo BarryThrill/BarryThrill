@@ -19,6 +19,5 @@ Python · pytest · TypeScript · Next.js · Node.js · MongoDB · PostgreSQL ·
 
 ## Find me
 
-- Site → [barryaljawari.com](https://barryaljawari.com)
+- Site → [barryaljawari.com](https://barryaljawari.com) (this is the CV)
 - LinkedIn → [barry-al-jawari](https://www.linkedin.com/in/barry-al-jawari/)
-- read.cv → [barryaljawari](https://read.cv/barryaljawari)
